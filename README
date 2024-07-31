@@ -1,0 +1,37 @@
+# Image Classification with TensorFlow
+
+This project demonstrates how to build and train a Convolutional Neural Network (CNN) to classify images using TensorFlow. The model is trained on the CIFAR-10 dataset, which contains 60,000 32x32 color images in 10 different classes.
+
+## Project Overview
+
+- **Data**: CIFAR-10 dataset
+- **Model**: Convolutional Neural Network (CNN)
+- **Framework**: TensorFlow and Keras
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x
+- TensorFlow
+
+### Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/Image-Classification-with-TensorFlow.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd Image-Classification-with-TensorFlow
+    ```
+3. Install the required packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+### Usage
+
+Run the script to train and evaluate the model:
+```bash
+python train_model.py
